@@ -1,20 +1,17 @@
-# Proyecto 1: Arquitectura Escalable en AWS
+# Proyecto AWS
 
-## Objetivo
-Implementar una arquitectura básica y escalable utilizando Amazon EC2, Auto Scaling y Elastic Load Balancer para simular una aplicación web con alta disponibilidad.
+Estoy aprendiendo Amazon Web Services (AWS).
+Este proyecto es una práctica para entender cómo funcionan
+las aplicaciones en la nube.
 
-## Servicios utilizados
-- Amazon EC2
-- Auto Scaling Group
-- Elastic Load Balancing (Application Load Balancer)
-- Amazon VPC
-- Security Groups
+## Servicios que estudié
+- EC2
+- Auto Scaling
+- Load Balancer
 
-## Descripción de la arquitectura
-- El tráfico de usuarios ingresa a través de un Load Balancer.
-- El Load Balancer distribuye las solicitudes entre múltiples instancias EC2.
-- El Auto Scaling Group ajusta automáticamente la cantidad de instancias según la carga.
-- Las instancias están distribuidas en múltiples zonas de disponibilidad.
+## Qué aprendí
+- Que AWS permite usar más o menos recursos según la demanda
+- Que se pueden usar varias máquinas para que una app no se caiga
+- Que el tráfico se puede repartir entre servidores
 
-## Estado
-🔧 En progreso
+Este proyecto es parte de mi portfolio.
